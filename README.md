@@ -1,5 +1,5 @@
 # meusite
-Olá! Eu e minha amiga fizemos ess site para uma aula de Programação Computacional!
+Olá! Eu e minha amiga fizemos esse site para uma aula de Programação Computacional!
 Você pode ver ele [aqui]
 
 ## Authors
