@@ -1,19 +1,14 @@
 # meusite
-Hello! At this tutorial I teach how to make a simple website using only HTML and CSS! 
-You can see the video [here](https://www.youtube.com/watch?v=n_Etdr7Dbjs)
-You can see the webpage [here](https://adrianasaty.github.io/easy-portfolio/)
-Hope you enjoy it!
-
+Olá! Eu e minha aiga fizemos ess site para uma aula de Programação Computacional!
+Você pode ver ele [aqui]
 ## Start
 
 ## Installation
 Don't need to do anything :)
 
 ## Authors
-Adriana Saty 
-
+Gabriela Lacerda & Maryah Jamielniak
 
 ## Follow me:
-I also do content at [Twitch](https://www.twitch.tv/adrianasaty).
-[Youtube](https://www.youtube.com/channel/UCPhVBS-1Uy-wIzj4hmjkcmA)
-and [Instagram](https://www.instagram.com/adriana.saty/)
+[Instagram] https://instagram.com/mahjamielniak?igshid=NzZlODBkYWE4Ng==
+https://instagram.com/gablacerda?igshid=MW5sc2FtMWJ2dDdncg==
